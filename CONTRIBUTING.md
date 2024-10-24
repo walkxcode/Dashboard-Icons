@@ -19,15 +19,15 @@ We appreciate your interest in contributing to our icon repository! To ensure sm
 
 ## 🔀 Converting SVG to PNG
 
-1. Go to https://ezgif.com/svg-to-png.
+1. Go to <https://ezgif.com/svg-to-png>.
 2. Upload the `SVG` file by clicking "Upload".
 3. Set the "Height (optional)" field to `512`, leaving other settings as default.
 4. Click "Convert to PNG!".
 5. Click "Save" located at the bottom right under the converted image.
 
-## ⤵️ Downscaling PNGs
+## ⏬ Downscaling PNGs
 
-1. Go to https://www.iloveimg.com/resize-image.
+1. Go to <https://www.iloveimg.com/resize-image>.
 2. Upload the `PNG` file(s).
 3. Adjust the "Height (px)" field to `512`, leaving other settings as default.
 4. Click "Resize IMAGES".
@@ -47,4 +47,4 @@ Kindly note that contributing to this repository necessitates adherence to our c
 
 ---
 
-Should you have any queries or concerns, feel free to reach out to me using walkxnl@gmail.com. Happy contributing! 🙌
+Should you have any queries or concerns, feel free to reach out to me using <walkxnl@gmail.com>. Happy contributing! 🙌
