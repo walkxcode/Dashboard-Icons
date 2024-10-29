@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    inkscape:export-ydpi="88"
    inkscape:export-xdpi="88"
    inkscape:export-filename="C:\Users\piotrant\Downloads\tasmocompiler-symbol.png"
-   sodipodi:docname="tasmocompiler.svg"
-   inkscape:version="1.4-beta (62f545ba5e, 2024-04-22)"
+   sodipodi:docname="tasmocompiler-symbol.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
    id="svg99"
    version="1.1"
-   viewBox="0 0 24 24"
-   height="24"
-   width="24"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:dc="http://purl.org/dc/elements/1.1/">
+   viewBox="0 0 174.97754 174.79047"
+   height="660.62537"
+   width="661.33246">
   <defs
      id="defs93">
     <marker
@@ -65,17 +65,17 @@
   <sodipodi:namedview
      lock-margins="true"
      inkscape:window-maximized="1"
-     inkscape:window-y="-9"
-     inkscape:window-x="-9"
-     inkscape:window-height="991"
+     inkscape:window-y="-8"
+     inkscape:window-x="-8"
+     inkscape:window-height="1147"
      inkscape:window-width="1920"
      showgrid="false"
      inkscape:document-rotation="0"
      inkscape:current-layer="layer1"
      inkscape:document-units="mm"
-     inkscape:cy="4.9939417"
-     inkscape:cx="12.28598"
-     inkscape:zoom="11.313708"
+     inkscape:cy="467.19735"
+     inkscape:cx="365.06891"
+     inkscape:zoom="0.7"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -86,10 +86,7 @@
      fit-margin-top="5"
      fit-margin-right="5"
      fit-margin-bottom="5"
-     fit-margin-left="5"
-     inkscape:showpageshadow="2"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1" />
+     fit-margin-left="5" />
   <metadata
      id="metadata96">
     <rdf:RDF>
@@ -98,6 +95,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -108,7 +106,7 @@
      inkscape:label="Warstwa 1"
      transform="translate(5.0686552,1.501203)">
     <g
-       transform="matrix(0.04913005,0,0,0.04913005,-5.2528929,-1.6854407)"
+       transform="matrix(0.35277777,0,0,0.35277777,-5.0686552,-1.5012028)"
        id="g397">
       <g
          id="g304">

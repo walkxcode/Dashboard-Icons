@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    inkscape:export-ydpi="88.469009"
    inkscape:export-xdpi="88.469009"
    inkscape:export-filename="C:\Users\piotrant\Downloads\in-progres.png"
    version="1.0"
-   width="24"
-   height="24"
-   viewBox="0 0 24 24"
-   preserveAspectRatio="xMidYMid"
+   width="1791.6852"
+   height="661.0755"
+   viewBox="0 0 1343.7639 495.80662"
+   preserveAspectRatio="xMidYMid meet"
    id="svg122"
-   sodipodi:docname="tasmocompiler-alt.svg"
-   inkscape:version="1.4-beta (62f545ba5e, 2024-04-22)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:dc="http://purl.org/dc/elements/1.1/">
+   sodipodi:docname="tasmocompiler-full.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
   <metadata
      id="metadata128">
     <rdf:RDF>
@@ -26,6 +26,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -209,32 +210,28 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="991"
+     inkscape:window-height="1147"
      id="namedview124"
      showgrid="false"
-     inkscape:zoom="32"
-     inkscape:cx="11.78125"
-     inkscape:cy="11.140625"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
+     inkscape:zoom="0.5"
+     inkscape:cx="727.13263"
+     inkscape:cy="488.03373"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg122"
      lock-margins="true"
      fit-margin-top="5"
      fit-margin-left="5"
      fit-margin-right="5"
-     fit-margin-bottom="5"
-     inkscape:showpageshadow="2"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1" />
+     fit-margin-bottom="5" />
   <text
-     style="font-size:30px;line-height:1.25;font-family:'Cascadia Code PL';-inkscape-font-specification:'Cascadia Code PL';white-space:pre;shape-inside:url(#rect565)"
+     style="font-size:30px;line-height:1.25;font-family:'Cascadia Code PL';-inkscape-font-specification:'Cascadia Code PL';white-space:pre;shape-inside:url(#rect565);"
      id="text563"
      xml:space="preserve"
-     transform="matrix(0.01799322,0,0,0.01799322,-0.2175536,6.7958324)" />
+     transform="translate(-8.3408601,-41.498588)" />
   <g
-     id="g664"
-     transform="matrix(0.01799322,0,0,0.01799322,-0.06747458,7.5425254)">
+     id="g664">
     <g
        transform="translate(416.03032,2.9336634)"
        id="g273">
@@ -599,17 +596,17 @@
   </g>
   <text
      id="text620"
-     y="14.56778"
-     x="9.3453741"
-     style="font-size:3.59864px;line-height:1.25;font-family:'Cascadia Code PL';-inkscape-font-specification:'Cascadia Code PL';fill:#3f51b5;fill-opacity:1;stroke-width:0.0134949"
+     y="390.43909"
+     x="523.13312"
+     style="font-size:200px;line-height:1.25;font-family:'Cascadia Code PL';-inkscape-font-specification:'Cascadia Code PL';fill:#3f51b5;fill-opacity:1;stroke-width:0.75"
      xml:space="preserve"><tspan
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.59864px;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift Bold';fill:#3f51b5;fill-opacity:1;stroke-width:0.0134949"
-       y="14.56778"
-       x="9.3453741"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:200px;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift Bold';fill:#3f51b5;fill-opacity:1;stroke-width:0.75"
+       y="390.43909"
+       x="523.13312"
        id="tspan618"
        sodipodi:role="line">Compiler</tspan></text>
   <g
-     transform="matrix(0.01799322,0,0,0.01799322,-0.09446446,7.0970197)"
+     transform="translate(-1.5,-24.75965)"
      id="g123">
     <g
        id="g112">
@@ -617,7 +614,7 @@
          transform="matrix(1.1241934,0,0,1.1241934,235.66235,20.997152)"
          style="fill:#3f51b5;fill-opacity:1"
          class="cls-1"
-         points="356.75,74.18 356.75,60.41 268.34,60.41 268.34,74.18 305.66,74.18 305.66,178.31 319.43,178.31 319.43,74.18 "
+         points="268.34,60.41 268.34,74.18 305.66,74.18 305.66,178.31 319.43,178.31 319.43,74.18 356.75,74.18 356.75,60.41 "
          id="polygon14" />
       <path
          style="fill:#3f51b5;fill-opacity:1;stroke-width:1.12419"
@@ -648,7 +645,7 @@
          transform="matrix(0.75,0,0,0.75,-216.00519,1608.6362)"
          style="fill:#3f51b5;fill-opacity:1"
          class="cls-1"
-         points="129.62,29.87 44.42,115.07 54.16,124.8 129.62,49.35 205.07,124.8 214.81,115.07 "
+         points="205.07,124.8 214.81,115.07 129.62,29.87 44.42,115.07 54.16,124.8 129.62,49.35 "
          id="polygon8" />
       <path
          style="fill:#3f51b5;fill-opacity:1;stroke-width:0.75"
