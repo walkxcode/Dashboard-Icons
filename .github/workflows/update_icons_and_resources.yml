@@ -38,7 +38,7 @@ jobs:
           git config --global user.email "homarr-labs@proton.me"
           git config --global user.name "Dashboard Icons Bot"
           git add png/ webp/
-          git commit -m ":recycle: Convert SVG assets to PNG and WEBP" || exit 0
+          git commit -m "ci: github-actions: convert SVG assets to PNG and WEBP" || exit 0
           git pull --rebase origin ${{ github.ref_name }}
           git push origin HEAD:${{ github.ref_name }}
 
@@ -66,7 +66,7 @@ jobs:
           git config --global user.email "homarr-labs@proton.me"
           git config --global user.name "Dashboard Icons Bot"
           git add tree.json
-          git commit -m ":construction_worker: Generate file tree" || exit 0
+          git commit -m "ci: github-actions: generate file tree" || exit 0
           git pull --rebase origin ${{ github.ref_name }}
           git push origin HEAD:${{ github.ref_name }}
 
@@ -94,6 +94,6 @@ jobs:
           git config --global user.email "homarr-labs@proton.me"
           git config --global user.name "Dashboard Icons Bot"
           git add ICONS.md
-          git commit -m ":construction_worker: Generate ICONS.md" || exit 0
+          git commit -m "ci: github-actions: generate ICONS.md" || exit 0
           git pull --rebase origin ${{ github.ref_name }}
           git push origin HEAD:${{ github.ref_name }}
