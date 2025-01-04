@@ -1,4 +1,4 @@
-![jsDelivr hits (GitHub)](https://img.shields.io/jsdelivr/gh/hy/walkxcode/dashboard-icons?style=flat-square&color=%23A020F0)
+[![jsDelivr hits (GitHub)](https://img.shields.io/jsdelivr/gh/hy/homarr-labs/dashboard-icons?style=flat-square&color=%23A020F0)](https://www.jsdelivr.com/package/gh/homarr-labs/dashboard-icons)
 
 ## Dashboard Icons
 
@@ -47,17 +47,17 @@ A complete link will look like this:
 
 For example, the icon URL for the WEBP version of Nextcloud Calendar would be:
 
-    https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/webp/nextcloud-calendar.webp
+    https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/nextcloud-calendar.webp
 
 #### Base URL
 
 We recommend using jsDelivr, a free and fast CDN:
 
-- `https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons`
+- `https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons`
 
 Alternatively, you can use direct links to the repository:
 
-- `https://raw.githubusercontent.com/walkxcode/dashboard-icons/refs/heads/main`
+- `https://raw.githubusercontent.com/homarr-labs/dashboard-icons/refs/heads/main`
 
 #### Name
 
@@ -107,4 +107,4 @@ or
 
 Unless otherwise indicated, all images and assets in this repository, including product names, trademarks, and registered trademarks, are the property of their respective owners. These images and assets are used for identification purposes only, and their use does not imply endorsement.
 
-Read the [LICENSE](LICENSE) for more information about the project itself. For questions or concerns, contact me at [bjorn@lammers.media](mailto:bjorn@lammers.media).
+Read the [LICENSE](LICENSE) for more information about the project itself. For questions or concerns, contact Bjorn at [bjorn@lammers.media](mailto:bjorn@lammers.media).
