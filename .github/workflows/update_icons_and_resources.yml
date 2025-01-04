@@ -35,7 +35,7 @@ jobs:
 
       - name: Commit and Push Changes 📤
         run: |
-          git config --global user.email "noreply@lammers.media"
+          git config --global user.email "homarr-labs@proton.me"
           git config --global user.name "Dashboard Icons Bot"
           git add png/ webp/
           git commit -m ":recycle: Convert SVG assets to PNG and WEBP" || exit 0
@@ -63,7 +63,7 @@ jobs:
 
       - name: Commit and Push Changes 📤
         run: |
-          git config --global user.email "noreply@lammers.media"
+          git config --global user.email "homarr-labs@proton.me"
           git config --global user.name "Dashboard Icons Bot"
           git add tree.json
           git commit -m ":construction_worker: Generate file tree" || exit 0
@@ -91,7 +91,7 @@ jobs:
 
       - name: Commit and Push Changes 📤
         run: |
-          git config --global user.email "noreply@lammers.media"
+          git config --global user.email "homarr-labs@proton.me"
           git config --global user.name "Dashboard Icons Bot"
           git add ICONS.md
           git commit -m ":construction_worker: Generate ICONS.md" || exit 0
