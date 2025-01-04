@@ -57,8 +57,8 @@ Thank you for your interest in contributing to the icon repository! To ensure sm
 
 ## Git Commit Messages
 
-- **Use Gitmoji**: Incorporate [Gitmoji](https://gitmoji.dev/) in your commit messages to keep the commit history clear and expressive. For example:
-  - `:bento: Adds xxx` when adding new icons.
+- **Use Semantic Commits**: Follow the format <type>(scope): description:
+  - `feat(icons): add nextcloud-calendar` when adding new icons.
 
 ## Contribution Process
 
@@ -75,4 +75,4 @@ By contributing, you agree to abide by our [Code of Conduct](CODE_OF_CONDUCT.md)
 
 ## Contact
 
-If you have any questions or need assistance, feel free to reach out at [bjorn@lammers.media](mailto:bjorn@lammers.media). I'm happy to help.
+If you have any questions or need assistance, feel free to reach out at [homarr-labs@proton.me](mailto:homarr-labs@proton.me). I'm happy to help.
