@@ -107,4 +107,4 @@ or
 
 Unless otherwise indicated, all images and assets in this repository, including product names, trademarks, and registered trademarks, are the property of their respective owners. These images and assets are used for identification purposes only, and their use does not imply endorsement.
 
-Read the [LICENSE](LICENSE) for more information about the project itself. For questions or concerns, contact Bjorn at [bjorn@lammers.media](mailto:bjorn@lammers.media).
+Read the [LICENSE](LICENSE) for more information about the project itself. For questions or concerns, contact us at [homarr-labs@proton.me](mailto:homarr-labs@proton.me).
