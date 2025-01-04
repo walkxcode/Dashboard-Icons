@@ -40,7 +40,7 @@ jobs:
 
       - name: Commit and Push Changes
         run: |
-          git config --global user.email "noreply@lammers.media"
+          git config --global user.email "homarr-labs@proton.me"
           git config --global user.name "Dashboard Icons Bot"
           git add png/ svg/ webp/
           git commit -m ":compression: Compress icons" || exit 0
