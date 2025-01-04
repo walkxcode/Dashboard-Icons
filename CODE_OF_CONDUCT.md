@@ -19,7 +19,7 @@ We do not tolerate harassment, intimidation, discrimination, or any other inappr
 
 ### Reporting
 
-If you witness or experience behavior that violates this code of conduct, please report it immediately to [bjorn@lammers.media](mailto:bjorn@lammers.media). All reports will be reviewed confidentially and promptly, and appropriate actions will be taken.
+If you witness or experience behavior that violates this code of conduct, please report it immediately to [homarr-labs@proton.me](mailto:homarr-labs@proton.me). All reports will be reviewed confidentially and promptly, and appropriate actions will be taken.
 
 ### Consequences
 
