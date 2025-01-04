@@ -1,3 +1,8 @@
+> [!WARNING]
+> The repository has been migrated from `walkxcode` to `homarr-labs`, because I do not have the capacity/time to keep maintaining it. The Homarr team will take over all management and maintenance, whilst keeping all functionality for you, the user, the same. The project will always be usable outside of Homarr itself and breaking changes will not be made. ^Bjorn
+>
+> The license and guidelines have changed, so please review them. If you want to help with maintenance, reach out to [homarr-labs@proton.me](mailto:homarr-labs@proton.me).
+
 [![jsDelivr hits (GitHub)](https://img.shields.io/jsdelivr/gh/hy/homarr-labs/dashboard-icons?style=flat-square&color=%23A020F0)](https://www.jsdelivr.com/package/gh/homarr-labs/dashboard-icons)
 
 ## Dashboard Icons
@@ -27,8 +32,8 @@ If you're looking to add a new icon, please read the [Contribution Guidelines](C
 
 Several dashboards offer seamless integration with Dashboard Icons. Here are some of the most popular options:
 
-- [Homepage](https://github.com/gethomepage/homepage)
 - [Homarr](https://github.com/ajnart/homarr)
+- [Homepage](https://github.com/gethomepage/homepage)
 - [Dashy](https://github.com/Lissy93/dashy)
 
 ## Usage and Details
