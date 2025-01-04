@@ -66,7 +66,7 @@ jobs:
           PREVIEWS=""
           for ICON in $ICONS; do
             ICON_NAME=$(basename $ICON)
-            PREVIEW="![${ICON_NAME}](https://raw.githubusercontent.com/walkxcode/dashboard-icons/${{ github.event.pull_request.head.ref }}/png/${ICON_NAME})"
+            PREVIEW="![${ICON_NAME}](https://raw.githubusercontent.com/homarr-labs/dashboard-icons/${{ github.event.pull_request.head.ref }}/png/${ICON_NAME})"
             PREVIEWS="$PREVIEWS $PREVIEW"
           done
           echo "::set-output name=icon_previews::$PREVIEWS"
