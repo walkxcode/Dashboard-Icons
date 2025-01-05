@@ -1,4 +1,4 @@
-name: Validate and Preview Icons ✅
+name: Validate and Preview Icons
 
 on:
   pull_request:
