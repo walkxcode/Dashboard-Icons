@@ -23,15 +23,6 @@ jobs:
           sudo apt-get install -y zopfli webp npm
           npm install -g svgo
 
-      - name: Create svgo.config.js if Missing
-        run: |
-          if [ ! -f "svgo.config.js" ]; then
-            echo "Creating svgo.config.js..."
-            echo "module.exports = { plugins: [{ removeViewBox: false }, { cleanupIDs: false }] };" > svgo.config.js
-          else
-            echo "svgo.config.js already exists."
-          fi
-
       - name: Compress PNG Files
         run: |
           echo "Compressing PNGs..."
@@ -40,7 +31,7 @@ jobs:
       - name: Compress SVG Files
         run: |
           echo "Compressing SVGs..."
-          svgo --config=svgo.config.js -f svg/
+          svgo -f svg/
 
       - name: Compress WEBP Files
         run: |
