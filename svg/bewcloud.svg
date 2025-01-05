@@ -1,0 +1,24 @@
+<svg data-v-fde0c5aa="" class="iconLeft" version="1.1" id="svg3" sodipodi:docname="logomark.svg" inkscape:export-filename="favicon.png" inkscape:export-xdpi="1228.8" inkscape:export-ydpi="1228.8" inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" viewBox="9.97 23.43 60.07 33.15">
+  <sodipodi:namedview id="namedview3" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" inkscape:zoom="1.92" inkscape:cx="127.34375" inkscape:cy="30.208333" inkscape:window-width="1440" inkscape:window-height="831" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-maximized="1" inkscape:current-layer="g5"/>
+  <!---->
+  <defs data-v-fde0c5aa="" id="defs1">
+    <!---->
+    <linearGradient inkscape:collect="always" xlink:href="#d27698e6-eb24-4a3f-96af-256d84d5b3ea" id="linearGradient4" gradientTransform="scale(1.3465159,0.74265739)" x1="0" y1="0" x2="74.265739" y2="0" gradientUnits="userSpaceOnUse"/>
+    <linearGradient inkscape:collect="always" xlink:href="#d27698e6-eb24-4a3f-96af-256d84d5b3ea" id="linearGradient5" gradientTransform="scale(1.3465159,0.74265739)" x1="0" y1="0" x2="74.265739" y2="0" gradientUnits="userSpaceOnUse"/>
+  </defs>
+  <defs data-v-fde0c5aa="" id="defs2">
+    <!---->
+  </defs>
+  <defs data-v-fde0c5aa="" id="defs3">
+    <linearGradient data-v-fde0c5aa="" gradientTransform="rotate(25)" id="d27698e6-eb24-4a3f-96af-256d84d5b3ea" x1="0" y1="0" x2="1" y2="0">
+      <stop data-v-fde0c5aa="" offset="0%" stop-color="#51A4FB" stop-opacity="1" id="stop2"/>
+      <stop data-v-fde0c5aa="" offset="100%" stop-color="#51A4FB" stop-opacity="1" id="stop3"/>
+    </linearGradient>
+  </defs>
+  <g id="g5" transform="translate(-24.999993,-125)">
+    <g data-v-fde0c5aa="" id="f64f14cc-5390-468e-9cd6-ee0163dcbf09" stroke="none" fill="url(#d27698e6-eb24-4a3f-96af-256d84d5b3ea)" transform="matrix(0.60062915,0,0,0.60062915,34.968536,148.43645)" style="fill:url(#linearGradient5)">
+      <path d="M 77.959,55.154 H 11.282 C 5.061,55.154 0,50.093 0,43.873 0,38.595 3.643,34.152 8.546,32.927 10.734,27.458 15.794,23.541 21.695,22.838 22.317,10.14 32.843,0 45.693,0 55.11,0 63.515,5.536 67.416,13.756 a 21.944,21.944 0 0 1 10.543,-2.682 c 12.153,0 22.041,9.887 22.041,22.04 0,12.153 -9.887,22.04 -22.041,22.04 z M 11.209,40.372 a 3.507,3.507 0 0 0 -3.429,3.501 3.504,3.504 0 0 0 3.501,3.501 h 66.678 c 7.863,0 14.26,-6.397 14.26,-14.26 0,-7.863 -6.396,-14.259 -14.26,-14.259 -3.683,0 -7.18,1.404 -9.847,3.952 L 63.016,27.678 61.612,20.77 C 60.083,13.243 53.388,7.78 45.693,7.78 c -8.958,0 -16.247,7.288 -16.247,16.246 0,0.728 0.054,1.483 0.159,2.246 l 0.73,5.287 -5.256,-0.923 a 8.59,8.59 0 0 0 -1.474,-0.132 c -4.002,0 -7.479,2.842 -8.267,6.757 l -0.65,3.227 -3.29,-0.106 z" id="path3" style="fill:url(#linearGradient4)"/>
+    </g>
+  </g>
+  <!---->
+</svg>
