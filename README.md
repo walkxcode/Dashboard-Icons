@@ -4,6 +4,7 @@
 > The license and guidelines have changed, so please review them. If you want to help with maintenance, reach out to [homarr-labs@proton.me](mailto:homarr-labs@proton.me).
 
 [![jsDelivr hits (GitHub)](https://img.shields.io/jsdelivr/gh/hy/homarr-labs/dashboard-icons?style=flat-square&color=%23A020F0)](https://www.jsdelivr.com/package/gh/homarr-labs/dashboard-icons)
+[![jsDelivr hits (GitHub)](https://img.shields.io/jsdelivr/gh/hy/walkxcode/dashboard-icons?style=flat-square&color=%23A020F0)](https://www.jsdelivr.com/package/gh/walkxcode/dashboard-icons)
 
 ## Dashboard Icons
 
