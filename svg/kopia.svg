@@ -1,10 +1,1 @@
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:cc="http://creativecommons.org/ns#" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="svg7" x="0px" y="0px" style="enable-background:new 0 0 512 512;" xml:space="preserve" viewBox="0.01 87.61 511.94 336.79">
-<style type="text/css">
-	.st0{fill:#2F80FF;}
-</style>
-<sodipodi:namedview bordercolor="#000000" borderopacity="0.25" id="namedview9" inkscape:current-layer="svg7" inkscape:cx="185.15077" inkscape:cy="191.32246" inkscape:deskcolor="#d1d1d1" inkscape:pagecheckerboard="true" inkscape:pageopacity="0.0" inkscape:showpageshadow="2" inkscape:window-height="801" inkscape:window-maximized="0" inkscape:window-width="1487" inkscape:window-x="0" inkscape:window-y="38" inkscape:zoom="0.72913551" pagecolor="#ffffff" showgrid="false">
-	</sodipodi:namedview>
-<g>
-	<path id="Shape_1" sodipodi:nodetypes="ccccccccccsccc" class="st0" d="M164.4,171.7c83.6-162,299.8-64.8,281.5,79.9   c89.7,13,89.7,170.6-10.2,170.6c-24.5,2.2-102.4,2.2-102.4,2.2v-69.1l42.8-47.5l-73.1-138.2L225,307.8l44.9,47.5v69.1h-185   C-11,424.4-39.5,258.1,72.6,230c-4.1-38.9,38.8-77.8,89.7-58.3L164.4,171.7z"/>
-</g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" viewBox="0.01 87.61 511.94 336.79"><path d="M164.4 171.7c83.6-162 299.8-64.8 281.5 79.9 89.7 13 89.7 170.6-10.2 170.6-24.5 2.2-102.4 2.2-102.4 2.2v-69.1l42.8-47.5L303 169.6l-78 138.2 44.9 47.5v69.1h-185C-11 424.4-39.5 258.1 72.6 230c-4.1-38.9 38.8-77.8 89.7-58.3z" style="fill:#2f80ff"/></svg>
