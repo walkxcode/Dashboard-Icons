@@ -65,7 +65,7 @@ jobs:
         run: |
           git config --global user.email "homarr-labs@proton.me"
           git config --global user.name "Dashboard Icons Bot"
-          git add tree.json
+          git add tree.json tree.xml
           git commit -m "ci: github-actions: generate file tree" || exit 0
           git pull --rebase origin ${{ github.ref_name }}
           git push origin HEAD:${{ github.ref_name }}
