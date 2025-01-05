@@ -23,7 +23,7 @@ Thank you for your interest in contributing to the icon repository! To ensure sm
 
 ### Format
 
-- **SVG Format Required**: All icons should be submitted in SVG format. If an SVG version is unavailable, a PNG version will suffice, and a WEBP version will be accordingly.
+- **SVG Format Required**: All icons should be submitted in SVG format. If an SVG version is unavailable, a PNG version will suffice, and a WEBP version will be generated accordingly.
 - **Automatic PNG and WEBP Generation**: PNG and WEBP versions are generated automatically from the SVG (or PNG) files using the following settings:
   - **Dimensions**:
     - Height: 512 pixels
