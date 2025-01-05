@@ -1,4 +1,4 @@
-name: "Update Icons and Resources ✨"
+name: Update Icons and Resources
 
 on:
   push:
@@ -16,29 +16,29 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Checkout Repository 🛎️
+      - name: Checkout Repository
         uses: actions/checkout@v3
         with:
           ref: ${{ github.ref_name }}
 
-      - name: Set Up Python 🐍
+      - name: Set Up Python
         uses: actions/setup-python@v4
         with:
           python-version: "3.9"
 
-      - name: Install Dependencies 📦
+      - name: Install Dependencies
         run: |
           pip install cairosvg pillow
 
-      - name: Run SVG to PNG and WEBP Conversion ♻️
+      - name: Run SVG to PNG and WEBP Conversion
         run: python scripts/convert_svg_assets.py
 
-      - name: Commit and Push Changes 📤
+      - name: Commit and Push Changes
         run: |
           git config --global user.email "homarr-labs@proton.me"
           git config --global user.name "Dashboard Icons Bot"
           git add png/ webp/
-          git commit -m "ci: github-actions: convert SVG assets to PNG and WEBP" || exit 0
+          git commit -m "ci(github-actions): convert SVG assets to PNG and WEBP" || exit 0
           git pull --rebase origin ${{ github.ref_name }}
           git push origin HEAD:${{ github.ref_name }}
 
@@ -48,25 +48,25 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Checkout Repository 🛎️
+      - name: Checkout Repository
         uses: actions/checkout@v3
         with:
           ref: ${{ github.ref_name }}
 
-      - name: Set Up Python 🐍
+      - name: Set Up Python
         uses: actions/setup-python@v4
         with:
           python-version: "3.9"
 
-      - name: Generate File Tree 🌳
+      - name: Generate File Tree
         run: python scripts/generate_file_tree.py svg png webp
 
-      - name: Commit and Push Changes 📤
+      - name: Commit and Push Changes
         run: |
           git config --global user.email "homarr-labs@proton.me"
           git config --global user.name "Dashboard Icons Bot"
           git add tree.json tree.xml
-          git commit -m "ci: github-actions: generate file tree" || exit 0
+          git commit -m "ci(github-actions): generate file tree" || exit 0
           git pull --rebase origin ${{ github.ref_name }}
           git push origin HEAD:${{ github.ref_name }}
 
@@ -76,24 +76,24 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Checkout Repository 🛎️
+      - name: Checkout Repository
         uses: actions/checkout@v3
         with:
           ref: ${{ github.ref_name }}
 
-      - name: Set Up Python 🐍
+      - name: Set Up Python
         uses: actions/setup-python@v4
         with:
           python-version: "3.9"
 
-      - name: Generate ICONS.md 🚀
+      - name: Generate ICONS.md
         run: python scripts/generate_icons_page.py
 
-      - name: Commit and Push Changes 📤
+      - name: Commit and Push Changes
         run: |
           git config --global user.email "homarr-labs@proton.me"
           git config --global user.name "Dashboard Icons Bot"
           git add ICONS.md
-          git commit -m "ci: github-actions: generate ICONS.md" || exit 0
+          git commit -m "ci(github-actions): generate ICONS.md" || exit 0
           git pull --rebase origin ${{ github.ref_name }}
           git push origin HEAD:${{ github.ref_name }}
