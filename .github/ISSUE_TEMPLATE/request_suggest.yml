@@ -1,6 +1,6 @@
-name: "🔍 Requests & Suggestions"
+name: "Request Icon"
 description: Suggest an icon or request changes
-labels: "🔍 Requests & Suggestions"
+labels: "icon request"
 body:
   - type: markdown
     attributes:
