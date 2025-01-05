@@ -1,18 +1,17 @@
 name: "🔍 Requests & Suggestions"
 description: Suggest an icon or request changes
 labels: "🔍 Requests & Suggestions"
-assignees: walkxcode
 body:
   - type: markdown
     attributes:
       value: |
-        Thank you for your interest in contributing to our icon repository! To ensure smooth collaboration, please make sure to read and agree to our [Contribution Guidelines](https://github.com/walkxcode/dashboard-icons/blob/main/CONTRIBUTING.md) before submitting your request.
+        Thank you for your interest in contributing to our icon repository! To ensure smooth collaboration, please make sure to read and agree to our [Contribution Guidelines](https://github.com/homarr-labs/dashboard-icons/blob/main/CONTRIBUTING.md) before submitting your request.
 
   - type: checkboxes
     attributes:
       label: Contribution Guidelines
       options:
-        - label: "I have read and agree to the [Contribution Guidelines](https://github.com/walkxcode/dashboard-icons/blob/main/CONTRIBUTING.md)"
+        - label: "I have read and agree to the [Contribution Guidelines](https://github.com/homarr-labs/dashboard-icons/blob/main/CONTRIBUTING.md)"
           required: true
 
   - type: textarea
