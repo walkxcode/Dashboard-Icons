@@ -27,9 +27,9 @@ if __name__ == "__main__":
     # Generate the combined folder tree
     folder_tree = generate_folder_tree(folder_paths)
 
-    # Write the JSON structure to 'tree.json' in the root folder
+    # Write the JSON structure to 'tree.json' in the parent folder
     root_dir = Path(__file__).resolve().parent
-    tree_json_path = root_dir / 'tree.json'
+    tree_json_path = root_dir.parent / 'tree.json'
 
     with open(tree_json_path, 'w') as f:
         json.dump(folder_tree, f, indent=4, sort_keys=True)  # Sort the keys in the JSON output
