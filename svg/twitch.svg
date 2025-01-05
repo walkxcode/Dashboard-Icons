@@ -1,11 +1,1 @@
-<svg xmlns:svg="http://www.w3.org/2000/svg" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="svg3355" x="0px" y="0px" style="enable-background:new 0 0 512 512;" xml:space="preserve" viewBox="31.28 -0.01 449.33 512">
-<style type="text/css">
-	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#6441A5;}
-</style>
-<g id="g3363" transform="matrix(1.3333333,0,0,-1.3333333,-180.53426,935.79824)">
-	<g id="g3365" transform="translate(420.064,651.1567)">
-		<path id="path3367" class="st0" d="M44.5-153.1l-54.9-54.9h-86.2l-47-47v47h-70.5V19.3l258.6,0V-153.1z M-245.5,50.7L-261.2-12    v-282.1h70.5v-39.2h39.2l39.2,39.2h62.7L75.8-168.7V50.7H-245.5L-245.5,50.7z"/>
-	</g>
-	<path id="path3369" class="st0" d="M292.1,513.8h31.3v94.1h-31.3V513.8z M378.3,513.8h31.3v94.1h-31.3V513.8z"/>
-</g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" id="svg3355" x="0" y="0" version="1.1" viewBox="31.28 -0.01 449.33 512"><style>.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#6441a5}</style><g id="g3363" transform="matrix(1.33333 0 0 -1.33333 -180.534 935.798)"><g id="g3365" transform="translate(420.064 651.157)"><path id="path3367" d="M44.5-153.1-10.4-208h-86.2l-47-47v47h-70.5V19.3H44.5zm-290 203.8L-261.2-12v-282.1h70.5v-39.2h39.2l39.2 39.2h62.7L75.8-168.7V50.7z" class="st0"/></g><path id="path3369" d="M292.1 513.8h31.3v94.1h-31.3zm86.2 0h31.3v94.1h-31.3z" class="st0"/></g></svg>
